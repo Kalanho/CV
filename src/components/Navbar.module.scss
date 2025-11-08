@@ -1,0 +1,38 @@
+@import "../variables.modules";
+
+nav {
+  transition: all 400ms;
+  z-index: 1;
+}
+
+.dark {
+  background-color: $dark;
+}
+
+
+.light {
+  background-color: $white;
+}
+
+.active {
+  border-bottom: 5px solid;
+  border-image-slice: 1;
+}
+
+li {
+  transition: $transition;
+  user-select: none;
+
+  &:hover {
+    transform: translateY(-3px);
+    transition: $transition;
+  }
+}
+  .element {
+    user-select: none; /* Запрещает выделение */
+}
+.link:hover {
+  color: unset;
+  user-select: none;
+
+}
