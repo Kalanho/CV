@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.fedc1830.css",
+    "main.js": "/test/static/js/main.3dc8239b.js",
+    "static/media/mock1.png": "/test/static/media/mock1.840b05bb22e9a36af97a.png",
+    "static/media/IMG_0110.png": "/test/static/media/IMG_0110.295819dd82a5a70c3f45.png",
+    "index.html": "/test/index.html",
+    "main.fedc1830.css.map": "/test/static/css/main.fedc1830.css.map",
+    "main.3dc8239b.js.map": "/test/static/js/main.3dc8239b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc1830.css",
+    "static/js/main.3dc8239b.js"
+  ]
+}
