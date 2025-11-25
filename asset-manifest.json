@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.fedc1830.css",
+    "main.js": "/CV/static/js/main.17fd4dca.js",
+    "static/media/mock1.png": "/CV/static/media/mock1.840b05bb22e9a36af97a.png",
+    "static/media/IMG_0110.png": "/CV/static/media/IMG_0110.295819dd82a5a70c3f45.png",
+    "index.html": "/CV/index.html",
+    "main.fedc1830.css.map": "/CV/static/css/main.fedc1830.css.map",
+    "main.17fd4dca.js.map": "/CV/static/js/main.17fd4dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc1830.css",
+    "static/js/main.17fd4dca.js"
+  ]
+}
